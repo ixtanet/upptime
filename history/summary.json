@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "main-router",
     "status": "down",
-    "uptime": "1.64%",
-    "uptimeDay": "1.64%",
-    "uptimeWeek": "1.64%",
-    "uptimeMonth": "1.64%",
-    "uptimeYear": "1.64%",
+    "uptime": "0.37%",
+    "uptimeDay": "0.37%",
+    "uptimeWeek": "0.37%",
+    "uptimeMonth": "0.37%",
+    "uptimeYear": "0.37%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-28": 2
+      "2022-04-28": 9
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 328,
-    "timeDay": 328,
-    "timeWeek": 328,
-    "timeMonth": 328,
-    "timeYear": 328,
+    "time": 269,
+    "timeDay": 269,
+    "timeWeek": 269,
+    "timeMonth": 269,
+    "timeYear": 269,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1162,
-    "timeDay": 1162,
-    "timeWeek": 1162,
-    "timeMonth": 1162,
-    "timeYear": 1162,
+    "time": 777,
+    "timeDay": 777,
+    "timeWeek": 777,
+    "timeMonth": 777,
+    "timeYear": 777,
     "dailyMinutesDown": {}
   },
   {
@@ -61,18 +61,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "media-ip",
     "status": "down",
-    "uptime": "90.10%",
-    "uptimeDay": "90.10%",
-    "uptimeWeek": "90.10%",
-    "uptimeMonth": "90.10%",
-    "uptimeYear": "90.10%",
+    "uptime": "17.88%",
+    "uptimeDay": "17.88%",
+    "uptimeWeek": "17.88%",
+    "uptimeMonth": "17.88%",
+    "uptimeYear": "17.88%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-28": 0
+      "2022-04-28": 7
     }
   }
 ]
