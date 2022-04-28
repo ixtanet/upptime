@@ -3,17 +3,17 @@ owner: ixtanet # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: Main Router
+  - name: Ixtanet Main Router
     url: $MAIN_ROUTER
     expectedStatusCodes:
       - 200
       - 302
-  - name: Media Server
+  - name: Ixtanet Media Server
     url: $MEDIA_SERVER
     expectedStatusCodes:
       - 200
       - 302
-  - name: Media SAT
+  - name: Ixtanet Media SAT
     url: $MEDIA_SAT
     expectedStatusCodes:
       - 200
