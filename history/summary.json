@@ -40,19 +40,19 @@
     "url": "$MEDIA_SAT",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ixtanet-media-sat",
-    "status": "down",
-    "uptime": "99.25%",
-    "uptimeDay": "98.56%",
-    "uptimeWeek": "99.25%",
-    "uptimeMonth": "99.25%",
-    "uptimeYear": "99.25%",
-    "time": 178,
-    "timeDay": 180,
-    "timeWeek": 178,
-    "timeMonth": 178,
-    "timeYear": 178,
+    "status": "up",
+    "uptime": "99.07%",
+    "uptimeDay": "98.22%",
+    "uptimeWeek": "99.07%",
+    "uptimeMonth": "99.07%",
+    "uptimeYear": "99.07%",
+    "time": 168,
+    "timeDay": 165,
+    "timeWeek": 168,
+    "timeMonth": 168,
+    "timeYear": 168,
     "dailyMinutesDown": {
-      "2022-04-29": 21
+      "2022-04-29": 26
     }
   }
 ]
