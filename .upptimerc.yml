@@ -8,7 +8,16 @@ sites:
     expectedStatusCodes:
       - 200
       - 302
-
+  - name: Ixtanet MServer
+    url: $MEDIA_SERVER
+    expectedStatusCodes:
+      - 200
+      - 302
+  - name: Ixtanet Channel
+    url: $MEDIA_SAT
+    expectedStatusCodes:
+      - 200
+      - 302
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
