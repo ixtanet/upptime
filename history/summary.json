@@ -43,19 +43,19 @@
     "url": "$MEDIA_SAT",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ixtanet-channel",
-    "status": "down",
-    "uptime": "91.10%",
-    "uptimeDay": "91.10%",
-    "uptimeWeek": "91.10%",
-    "uptimeMonth": "91.10%",
-    "uptimeYear": "91.10%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "1.60%",
+    "uptimeDay": "1.60%",
+    "uptimeWeek": "1.60%",
+    "uptimeMonth": "1.60%",
+    "uptimeYear": "1.60%",
+    "time": 910,
+    "timeDay": 910,
+    "timeWeek": 910,
+    "timeMonth": 910,
+    "timeYear": 910,
     "dailyMinutesDown": {
-      "2022-06-06": 0
+      "2022-06-06": 97
     }
   }
 ]
