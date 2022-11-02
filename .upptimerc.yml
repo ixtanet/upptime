@@ -5,9 +5,7 @@ repo: upptime # The name of this repository
 sites:
   - name: Ixtanet Main Router
     url: $MAIN_ROUTER
-    expectedStatusCodes:
-      - 200
-      - 302
+    check: "tcp-ping"
   - name: Ixtanet MServer
     url: $MEDIA_SERVER
     expectedStatusCodes:
