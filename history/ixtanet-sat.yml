@@ -1,7 +1,7 @@
 url: $MEDIA_SAT
-status: up
-code: 200
-responseTime: 152
-lastUpdated: 2023-03-29T23:13:53.659Z
+status: down
+code: 403
+responseTime: 147
+lastUpdated: 2023-03-30T05:52:24.086Z
 startTime: Wed Nov 02 2022 18:42:24 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
