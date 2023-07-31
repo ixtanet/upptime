@@ -8,7 +8,7 @@
     "uptime": "86.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.83%",
-    "uptimeMonth": "51.42%",
+    "uptimeMonth": "51.45%",
     "uptimeYear": "86.13%",
     "time": 132,
     "timeDay": 259,
@@ -95,19 +95,19 @@
     "url": "$MEDIA_SERVER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ixtanet-m-server",
-    "status": "up",
-    "uptime": "93.28%",
-    "uptimeDay": "36.31%",
+    "status": "down",
+    "uptime": "93.52%",
+    "uptimeDay": "37.12%",
     "uptimeWeek": "68.90%",
     "uptimeMonth": "42.08%",
-    "uptimeYear": "92.26%",
+    "uptimeYear": "92.54%",
     "time": 530,
     "timeDay": 1917,
     "timeWeek": 1232,
     "timeMonth": 1034,
     "timeYear": 537,
     "dailyMinutesDown": {
-      "2023-07-31": 734,
+      "2023-07-31": 735,
       "2023-07-30": 1236,
       "2023-07-29": 428,
       "2023-07-28": 408,
@@ -174,8 +174,7 @@
       "2022-12-03": 595,
       "2022-11-20": 24,
       "2022-11-16": 28,
-      "2022-11-11": 1214,
-      "2022-11-10": 286
+      "2022-11-11": 15
     }
   },
   {
@@ -183,12 +182,12 @@
     "url": "$MEDIA_SAT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ixtanet-sat",
-    "status": "up",
-    "uptime": "88.80%",
-    "uptimeDay": "18.54%",
+    "status": "down",
+    "uptime": "88.81%",
+    "uptimeDay": "19.38%",
     "uptimeWeek": "63.61%",
-    "uptimeMonth": "40.86%",
-    "uptimeYear": "88.80%",
+    "uptimeMonth": "40.85%",
+    "uptimeYear": "88.81%",
     "time": 699,
     "timeDay": 4335,
     "timeWeek": 2115,
@@ -260,8 +259,7 @@
       "2023-01-28": 30,
       "2023-01-27": 322,
       "2023-01-25": 1196,
-      "2023-01-24": 576,
-      "2023-01-15": 74
+      "2023-01-24": 576
     }
   },
   {
