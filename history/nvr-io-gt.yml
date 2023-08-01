@@ -1,7 +1,7 @@
 url: $NVR_URL
-status: up
-code: 200
-responseTime: 513
-lastUpdated: 2023-08-01T16:49:35.013Z
+status: down
+code: 530
+responseTime: 110
+lastUpdated: 2023-08-01T21:11:08.776Z
 startTime: Tue Jun 06 2023 05:39:04 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
