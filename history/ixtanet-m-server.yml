@@ -1,7 +1,7 @@
 url: $MEDIA_SERVER
-status: up
-code: 200
-responseTime: 240
-lastUpdated: 2023-10-05T15:27:26.258Z
+status: down
+code: 530
+responseTime: 97
+lastUpdated: 2023-10-05T15:39:12.238Z
 startTime: 2022-06-06T13:31:29.000Z
 generator: Upptime <https://github.com/upptime/upptime>
