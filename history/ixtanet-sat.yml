@@ -1,7 +1,7 @@
 url: $MEDIA_SAT
-status: degraded
+status: up
 code: 200
-responseTime: 21257
-lastUpdated: 2023-10-05T02:09:33.336Z
+responseTime: 2012
+lastUpdated: 2023-10-05T02:36:41.296Z
 startTime: 2022-11-02T18:42:24.000Z
 generator: Upptime <https://github.com/upptime/upptime>
