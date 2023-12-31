@@ -240,19 +240,19 @@
     "url": "$N_IXTANET",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "n-ixtanet",
-    "status": "down",
-    "uptime": "94.77%",
-    "uptimeDay": "94.77%",
-    "uptimeWeek": "94.77%",
-    "uptimeMonth": "94.77%",
-    "uptimeYear": "94.77%",
-    "time": 221,
-    "timeDay": 221,
-    "timeWeek": 221,
-    "timeMonth": 221,
-    "timeYear": 221,
+    "status": "up",
+    "uptime": "15.34%",
+    "uptimeDay": "15.34%",
+    "uptimeWeek": "15.34%",
+    "uptimeMonth": "15.34%",
+    "uptimeYear": "15.34%",
+    "time": 198,
+    "timeDay": 198,
+    "timeWeek": 198,
+    "timeMonth": 198,
+    "timeYear": 198,
     "dailyMinutesDown": {
-      "2023-12-31": 0
+      "2023-12-31": 35
     }
   }
 ]
