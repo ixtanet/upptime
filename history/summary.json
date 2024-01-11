@@ -101,10 +101,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ixtanet-m-server",
     "status": "up",
-    "uptime": "96.02%",
-    "uptimeDay": "96.89%",
-    "uptimeWeek": "99.56%",
-    "uptimeMonth": "99.46%",
+    "uptime": "96.01%",
+    "uptimeDay": "97.32%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.48%",
     "uptimeYear": "93.63%",
     "time": 483,
     "timeDay": 160,
@@ -112,7 +112,7 @@
     "timeMonth": 191,
     "timeYear": 502,
     "dailyMinutesDown": {
-      "2024-01-10": 45,
+      "2024-01-10": 39,
       "2024-01-01": 15,
       "2023-12-18": 175,
       "2023-12-09": 47,
@@ -169,7 +169,7 @@
       "2023-06-05": 57,
       "2023-06-04": 128,
       "2023-05-28": 46,
-      "2023-05-27": 47
+      "2023-05-27": 69
     }
   },
   {
