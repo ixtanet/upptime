@@ -10,6 +10,18 @@ sites:
     expectedStatusCodes:
       - 200
       - 302
+  - name: Purificadora Ixtatan
+    url: $WEB_PURIFICADORA_IXTATAN
+    expectedStatusCodes:
+      - 200
+  - name: POS Ixtanet
+    url: $WEB_POS_IXTANET
+    expectedStatusCodes:
+      - 200
+  - name: MANAGER ISP.GT
+    url: $WEB_MANAGER
+    expectedStatusCodes:
+      - 200
   - name: Ixtanet SAT
     url: $MEDIA_SAT
     expectedStatusCodes:
