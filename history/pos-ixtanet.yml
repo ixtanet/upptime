@@ -1,7 +1,7 @@
 url: $WEB_POS_IXTANET
-status: up
-code: 200
-responseTime: 368
-lastUpdated: 2024-07-12T02:31:45.396Z
+status: down
+code: 523
+responseTime: 3375
+lastUpdated: 2024-07-12T03:57:13.055Z
 startTime: 2024-05-04T03:08:27.716Z
 generator: Upptime <https://github.com/upptime/upptime>
