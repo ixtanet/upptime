@@ -6,10 +6,9 @@ sites:
   - name: Ixtanet Main
     url: $MAIN_ROUTER
   - name: Ixtanet MServer
-    url: $MEDIA_SERVER
+    url: $TVSERVER
     expectedStatusCodes:
       - 200
-      - 302
   - name: Purificadora Ixtatan
     url: $WEB_PURIFICADORA_IXTATAN
     expectedStatusCodes:
@@ -22,12 +21,6 @@ sites:
     url: $WEB_MANAGER
     expectedStatusCodes:
       - 200
-  - name: Ixtanet SAT
-    url: $MEDIA_SAT
-    expectedStatusCodes:
-      - 200
-      - 302
-    maxResponseTime: 5000
   - name: N IXTANET
     url: $N_IXTANET
     expectedStatusCodes:
