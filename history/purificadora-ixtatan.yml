@@ -1,7 +1,7 @@
 url: $WEB_PURIFICADORA_IXTATAN
-status: up
-code: 200
-responseTime: 598
-lastUpdated: 2024-11-13T13:50:26.276Z
+status: down
+code: 523
+responseTime: 4255
+lastUpdated: 2024-11-13T20:36:16.671Z
 startTime: 2024-05-04T03:06:55.473Z
 generator: Upptime <https://github.com/upptime/upptime>
