@@ -1,7 +1,7 @@
 url: $TVSERVER
-status: down
-code: 500
-responseTime: 157
-lastUpdated: 2024-12-31T18:14:50.523Z
+status: up
+code: 200
+responseTime: 137
+lastUpdated: 2024-12-31T18:33:41.861Z
 startTime: 2022-06-06T13:31:29.000Z
 generator: Upptime <https://github.com/upptime/upptime>
