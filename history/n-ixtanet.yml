@@ -1,7 +1,7 @@
 url: $N_IXTANET
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-04-02T23:19:44.440Z
+status: up
+code: 200
+responseTime: 123
+lastUpdated: 2025-04-03T01:15:13.207Z
 startTime: 2023-12-31T16:49:13.171Z
 generator: Upptime <https://github.com/upptime/upptime>
