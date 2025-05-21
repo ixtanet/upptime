@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ixtanet-main",
     "status": "down",
-    "uptime": "74.21%",
+    "uptime": "74.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "51.21%",
+    "uptimeYear": "51.49%",
     "time": 216,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 177,
     "dailyMinutesDown": {
-      "2025-05-20": 45,
+      "2025-05-21": 44,
+      "2025-05-20": 1440,
       "2025-05-19": 1440,
       "2025-05-18": 1440,
       "2025-05-17": 1440,
@@ -140,7 +141,6 @@
       "2024-05-24": 2880,
       "2024-05-23": 2880,
       "2024-05-22": 2880,
-      "2024-05-21": 2880,
       "2024-07-28": 1142,
       "2024-07-27": 1440,
       "2024-07-26": 1440
@@ -152,18 +152,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ixtanet-m-server",
     "status": "down",
-    "uptime": "89.63%",
+    "uptime": "89.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "76.45%",
-    "time": 1709,
-    "timeDay": 964,
-    "timeWeek": 15716,
-    "timeMonth": 14453,
-    "timeYear": 2086,
+    "uptimeYear": "76.18%",
+    "time": 1712,
+    "timeDay": 0,
+    "timeWeek": 14541,
+    "timeMonth": 14256,
+    "timeYear": 2094,
     "dailyMinutesDown": {
-      "2025-05-20": 45,
+      "2025-05-21": 44,
+      "2025-05-20": 1440,
       "2025-05-19": 1440,
       "2025-05-18": 1440,
       "2025-05-17": 1440,
@@ -266,8 +267,7 @@
       "2024-06-01": 19,
       "2024-05-31": 16,
       "2024-05-23": 62,
-      "2024-05-22": 149,
-      "2024-05-21": 210
+      "2024-05-22": 149
     }
   },
   {
@@ -276,16 +276,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "purificadora-ixtatan",
     "status": "up",
-    "uptime": "90.47%",
+    "uptime": "90.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "92.18%",
-    "time": 2406,
-    "timeDay": 264,
-    "timeWeek": 326,
-    "timeMonth": 323,
-    "timeYear": 2404,
+    "time": 2403,
+    "timeDay": 322,
+    "timeWeek": 321,
+    "timeMonth": 322,
+    "timeYear": 2370,
     "dailyMinutesDown": {
       "2025-04-09": 50,
       "2025-04-04": 44,
@@ -351,8 +351,7 @@
       "2024-06-06": 302,
       "2024-06-05": 60,
       "2024-06-04": 438,
-      "2024-05-22": 149,
-      "2024-05-21": 184
+      "2024-05-22": 149
     }
   },
   {
@@ -361,16 +360,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pos-ixtanet",
     "status": "up",
-    "uptime": "89.64%",
+    "uptime": "89.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "95.05%",
     "uptimeMonth": "97.77%",
     "uptimeYear": "92.32%",
-    "time": 2288,
-    "timeDay": 407,
-    "timeWeek": 4700,
+    "time": 2285,
+    "timeDay": 418,
+    "timeWeek": 4681,
     "timeMonth": 3100,
-    "timeYear": 2317,
+    "timeYear": 2285,
     "dailyMinutesDown": {
       "2025-05-14": 499,
       "2025-05-08": 366,
@@ -447,8 +446,7 @@
       "2024-06-06": 302,
       "2024-06-05": 60,
       "2024-06-04": 437,
-      "2024-05-22": 149,
-      "2024-05-21": 178
+      "2024-05-22": 149
     }
   },
   {
@@ -457,16 +455,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "manager-isp-gt",
     "status": "up",
-    "uptime": "86.70%",
+    "uptime": "86.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "95.05%",
     "uptimeMonth": "97.77%",
     "uptimeYear": "89.08%",
-    "time": 1128,
-    "timeDay": 469,
-    "timeWeek": 1588,
-    "timeMonth": 882,
-    "timeYear": 1142,
+    "time": 1127,
+    "timeDay": 574,
+    "timeWeek": 1602,
+    "timeMonth": 879,
+    "timeYear": 1101,
     "dailyMinutesDown": {
       "2025-05-14": 499,
       "2025-05-08": 365,
@@ -553,8 +551,7 @@
       "2024-06-06": 301,
       "2024-06-05": 59,
       "2024-06-04": 424,
-      "2024-05-22": 148,
-      "2024-05-21": 153
+      "2024-05-22": 148
     }
   },
   {
@@ -563,15 +560,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "n-ixtanet",
     "status": "up",
-    "uptime": "93.04%",
+    "uptime": "93.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "95.06%",
     "uptimeMonth": "97.79%",
     "uptimeYear": "94.12%",
     "time": 170,
-    "timeDay": 133,
-    "timeWeek": 158,
-    "timeMonth": 161,
+    "timeDay": 240,
+    "timeWeek": 167,
+    "timeMonth": 162,
     "timeYear": 158,
     "dailyMinutesDown": {
       "2025-05-14": 498,
@@ -640,8 +637,7 @@
       "2024-06-06": 221,
       "2024-06-05": 59,
       "2024-06-04": 422,
-      "2024-05-22": 148,
-      "2024-05-21": 142
+      "2024-05-22": 148
     }
   }
 ]
